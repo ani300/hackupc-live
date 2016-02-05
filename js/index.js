@@ -58,7 +58,6 @@ $(document).ready(function() {
       // Code to run if the request fails; the raw request and
       // status codes are passed to the function
       error: function(xhr, status, errorThrown) {
-          alert("Sorry, there was a problem!");
           console.log("Error: " + errorThrown);
           console.log("Status: " + status);
           console.dir(xhr);
