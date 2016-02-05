@@ -1,0 +1,12 @@
+@font-face {
+    font-family: minecraftia;
+    src: url(../fonts/minecraftia.ttf);
+}
+
+* {
+    font-family: minecraftia;
+}
+
+h1 {
+  color: #2A31EE;
+}

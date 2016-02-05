@@ -1,0 +1,23 @@
+{
+  "name": "hackupc-live",
+  "version": "1.0.0",
+  "description": "Live page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ani300/hackupc-live.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ani300/hackupc-live/issues"
+  },
+  "homepage": "https://github.com/ani300/hackupc-live#readme",
+  "devDependencies": {
+    "lite-server": "^2.0.1"
+  }
+}
